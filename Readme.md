@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
-* Студент: [shockli](https://up.htmlacademy.ru/react/15/user/13414).
-* Наставник: `Неизвестно`.
+* Студент: [Alexander Pautov](https://up.htmlacademy.ru/react/15/user/13414).
+* Наставник: Дмитрий Свиридов.
 
 ---
 
