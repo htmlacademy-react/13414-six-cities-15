@@ -1,5 +1,5 @@
 import Offer from '../offer/Offer.tsx';
-import Header from '../Header.tsx';
+import Header from '../../common/Header.tsx';
 
 const Main = () => (
   <div className="page page--gray page--main">
